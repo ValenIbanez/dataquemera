@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(253, 253, 253);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    color: #581fb4;
+}
+
+.pcolor {
+    color: rgb(255, 168, 127);
+}
+
+.pcolor {
+
+    color: chartreuse;
+    font-size: medium ;
+
+    width: 300px;
+    height: 150px;
+    background-color: #581fb4;
+}
+
+
+header {
+    background-color: hsl(0, 89%, 33%);
+}
+
+body {
+    background-color: lab(32.94% 54.77 42.71);
+}
+
+footer {
+    background-color: hsl(0, 89%, 33%);
+}
+
+ul {
+
+    list-style: decimal;
+    font-weight: bold;
+}
